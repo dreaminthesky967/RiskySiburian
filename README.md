@@ -2,7 +2,7 @@
 <h3 align="center">💻 Student at Universitas Sriwijaya, exploring the world of software development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Learning+Python+%26+Web+Development;Always+curious+and+building+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+System+Student;Learning+Python+%26+Web+Development;Always+curious+and+building+projects" alt="Typing SVG" />
 </p>
 
 ---
