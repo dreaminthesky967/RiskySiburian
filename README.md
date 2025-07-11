@@ -6,6 +6,25 @@
 </p>
 
 ---
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dreaminthesky967/dreaminthesky967/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dreaminthesky967/dreaminthesky967/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dreaminthesky967/dreaminthesky967/output/pacman-contribution-graph.svg">
+</picture>
 
 ### 🌱 I’m currently learning:
 - Python and Flask
@@ -46,4 +65,7 @@
 > “Learning to write programs stretches your mind, and helps you think better.”  
 > – Bill Gates
 
+###
+<img src="https://raw.githubusercontent.com/dreaminthesky967/dreaminthesky967/output/snake.svg" alt="Snake animation" />
 
+ 
